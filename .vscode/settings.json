@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "interactive.inactiveCodeBorder": "#ff0000",
+        "titleBar.activeBackground": "#4e5434", // change this color!
+        "titleBar.inactiveBackground": "#4e5434" // change this color!
+    }
+}
